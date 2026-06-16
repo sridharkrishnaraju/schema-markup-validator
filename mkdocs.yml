@@ -1,0 +1,8 @@
+site_name: Schema Markup Validator
+site_description: Validate JSON-LD structured data against schema.org in the browser.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
