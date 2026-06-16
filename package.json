@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/schema-validator",
+  "version": "1.0.0",
+  "description": "Validate JSON-LD structured data against schema.org in the browser. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "schema-validator.js",
+  "unpkg": "schema-validator.js",
+  "files": ["schema-validator.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "json-ld validator", "structured data validator", "schema validator"],
+  "homepage": "https://sgbp.tech/tools/schema-markup-validator",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
